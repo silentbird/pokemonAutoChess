@@ -231,6 +231,40 @@
     "HIDDEN_POWER_Y": "覺醒力量 (YOGA)",
     "HIDDEN_POWER_Z": "覺醒力量 (ZZZZ)",
     "HIDDEN_POWER_QM": "覺醒力量 (?)",
-    "HIDDEN_POWER_EM": "覺醒力量 (!)"
-  }
+    "HIDDEN_POWER_EM": "覺醒力量 (!)",
+    "POISON_JAB": "毒刺",
+    "SHELL_SMASH": "碎壳",
+    "HELPING_HAND": "援助之手",
+    "ASTRAL_BARRAGE": "星界弹幕",
+    "WATERFALL": "瀑布",
+    "PYRO_BALL": "火球",
+    "WHIRLPOOL": "旋涡",
+    "SMOKE_SCREEN": "烟幕",
+    "PRESENT": "礼物",
+    "LEAF_BLADE": "葉刃",
+    "ANCHOR_SHOT": "錨射",
+    "PSYCHIC": "超能力",
+    "PSYBEAM": "精神射束",
+    "MAGNET_RISE": "磁力崛起",
+    "ATTRACT": "吸引",
+    "WATER_PULSE": "水脈冲"
+  },
+  "weather_description": {
+    "SUN": "燒傷傷害 +30%  \n冰凍持續時間 -30%",
+    "WINDY": "+10% 躲避機率（如果是飛行中則 +20%）",
+    "RAIN": "每秒 +3 PP  \n-30% 燒傷和中毒傷害"
+  },
+  "password_protected": "私人遊戲（密碼保護）",
+  "private": "私人",
+  "available_rooms": "开放大厅",
+  "new_game": "新游戏",
+  "in_game": "游戏中",
+  "tournament": "錦標賽",
+  "custom_room": "自定义房间",
+  "custom_room_description": "創建一個私人房間，並設定自己的規則",
+  "loading": "加载中...",
+  "connecting": "正在连接...",
+  "no_data_available": "没有可用数据",
+  "no_bots_found": "没有找到机器人！",
+  "leaderboard": "排行榜"
 }
